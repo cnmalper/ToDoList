@@ -1,5 +1,5 @@
 # ToDoList
-Built a simple ToDoList and I'll be continue to improve it.
+Built a simple ToDoList.
 
 ## Simulator Images
 
